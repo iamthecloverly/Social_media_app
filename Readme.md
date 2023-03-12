@@ -1,4 +1,4 @@
-# Social media Clone with React, Redux, Node, Mongodb and Firebase.
+# Social media App with React, Redux, Node, Mongodb and Firebase.
 ## An social media application which includes following API end points as per the following requirements
 
 With API’s:
