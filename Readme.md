@@ -1,3 +1,7 @@
+
+![Cover](https://user-images.githubusercontent.com/86469621/225601319-43c95e7e-ccfb-4570-bc03-6c1a8ccc7c98.png)
+
+
 # Social media App with React, Redux, Node, Mongodb and Firebase.
 ## An social media application which includes following API end points as per the following requirements
 
